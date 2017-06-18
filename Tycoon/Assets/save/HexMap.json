@@ -1,0 +1,1302 @@
+{
+    "savedRowNum": 8,
+    "savedColNum": 9,
+    "hexList": [
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 0,
+                "row": 0,
+                "s": 0,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 0,
+                "row": 1,
+                "s": -1,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 0,
+                "row": 2,
+                "s": -2,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 0,
+                "row": 3,
+                "s": -3,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 0,
+                "row": 4,
+                "s": -4,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 0,
+                "row": 5,
+                "s": -5,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 0,
+                "row": 6,
+                "s": -6,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 0,
+                "row": 7,
+                "s": -7,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 1,
+                "row": 0,
+                "s": -1,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 1,
+                "row": 1,
+                "s": -2,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 1,
+                "row": 2,
+                "s": -3,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 1,
+                "row": 3,
+                "s": -4,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 1,
+                "row": 4,
+                "s": -5,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 1,
+                "row": 5,
+                "s": -6,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 1,
+                "row": 6,
+                "s": -7,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 1,
+                "row": 7,
+                "s": -8,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 2,
+                "row": 0,
+                "s": -2,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 2,
+                "row": 1,
+                "s": -3,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 2,
+                "row": 2,
+                "s": -4,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 2,
+                "row": 3,
+                "s": -5,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 2,
+                "row": 4,
+                "s": -6,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 2,
+                "row": 5,
+                "s": -7,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 2,
+                "row": 6,
+                "s": -8,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 2,
+                "row": 7,
+                "s": -9,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 3,
+                "row": 0,
+                "s": -3,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 3,
+                "row": 1,
+                "s": -4,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 3,
+                "row": 2,
+                "s": -5,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 3,
+                "row": 3,
+                "s": -6,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 3,
+                "row": 4,
+                "s": -7,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 3,
+                "row": 5,
+                "s": -8,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 3,
+                "row": 6,
+                "s": -9,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 3,
+                "row": 7,
+                "s": -10,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 4,
+                "row": 0,
+                "s": -4,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 4,
+                "row": 1,
+                "s": -5,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 4,
+                "row": 2,
+                "s": -6,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 4,
+                "row": 3,
+                "s": -7,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 4,
+                "row": 4,
+                "s": -8,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 4,
+                "row": 5,
+                "s": -9,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 4,
+                "row": 6,
+                "s": -10,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 4,
+                "row": 7,
+                "s": -11,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 5,
+                "row": 0,
+                "s": -5,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 5,
+                "row": 1,
+                "s": -6,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 5,
+                "row": 2,
+                "s": -7,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 5,
+                "row": 3,
+                "s": -8,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 5,
+                "row": 4,
+                "s": -9,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 5,
+                "row": 5,
+                "s": -10,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 5,
+                "row": 6,
+                "s": -11,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 5,
+                "row": 7,
+                "s": -12,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 6,
+                "row": 0,
+                "s": -6,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 6,
+                "row": 1,
+                "s": -7,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": true,
+                "col": 6,
+                "row": 2,
+                "s": -8,
+                "radius": 1.0,
+                "BuildingType": "SmallHouse01"
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 6,
+                "row": 3,
+                "s": -9,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 6,
+                "row": 4,
+                "s": -10,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 6,
+                "row": 5,
+                "s": -11,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 6,
+                "row": 6,
+                "s": -12,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 6,
+                "row": 7,
+                "s": -13,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 7,
+                "row": 0,
+                "s": -7,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 7,
+                "row": 1,
+                "s": -8,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 7,
+                "row": 2,
+                "s": -9,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 7,
+                "row": 3,
+                "s": -10,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 7,
+                "row": 4,
+                "s": -11,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 7,
+                "row": 5,
+                "s": -12,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 7,
+                "row": 6,
+                "s": -13,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 7,
+                "row": 7,
+                "s": -14,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 8,
+                "row": 0,
+                "s": -8,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 8,
+                "row": 1,
+                "s": -9,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 0.9215686321258545,
+                    "b": 0.01568627543747425,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": true,
+                "col": 8,
+                "row": 2,
+                "s": -10,
+                "radius": 1.0,
+                "BuildingType": "SmallHouse01"
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 8,
+                "row": 3,
+                "s": -11,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 8,
+                "row": 4,
+                "s": -12,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 8,
+                "row": 5,
+                "s": -13,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 8,
+                "row": 6,
+                "s": -14,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        },
+        {
+            "elevation": 0.0,
+            "hex": {
+                "curColor": {
+                    "r": 1.0,
+                    "g": 1.0,
+                    "b": 1.0,
+                    "a": 1.0
+                },
+                "selected": false,
+                "hasBuilding": false,
+                "col": 8,
+                "row": 7,
+                "s": -15,
+                "radius": 1.0,
+                "BuildingType": ""
+            }
+        }
+    ]
+}
